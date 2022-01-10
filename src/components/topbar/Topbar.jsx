@@ -1,4 +1,3 @@
-import React from 'react';
 import './topbar.css';
 import { Search, Person, Chat, Notifications } from '@material-ui/icons';
 

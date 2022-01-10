@@ -1,4 +1,3 @@
-import React from 'react';
 import './share.css';
 import { PermMedia, Label, Room, EmojiEmotions } from '@material-ui/icons';
 

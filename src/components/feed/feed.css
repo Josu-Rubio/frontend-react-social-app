@@ -1,15 +1,15 @@
 .feed {
   flex: 5.5;
   height: calc(95vh - 50px);
-  overflow: hidden;
-}
-
-.feed:hover {
   overflow-y: scroll;
 }
 
-.feed::-webkit-scrollbar {
-  width: 0px;
+.feed:hover::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.feed:hover::-webkit-scrollbar-thumb {
+  background: transparent;
 }
 
 .feedWrapper {
