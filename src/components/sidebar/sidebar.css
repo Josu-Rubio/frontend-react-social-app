@@ -6,9 +6,8 @@
   top: 50px;
 }
 
-::-webkit-scrollbar {
+::-webkit-scrollbar-y {
   width: 7px;
-  min-height: 3rem;
 }
 
 .sidebar::-webkit-scrollbar-track {
